@@ -3,14 +3,14 @@
 🚀 Live Demo: https://miracleobatare-portfolio.netlify.app/
 
 ## 🌟 Overview  
-This is my personal web portfolio showcasing my projects, skills, and experience in [your field, e.g., software development, UI/UX, etc.].  
+This is my personal web portfolio showcasing my projects, skills, and experience in  Product Management, Software Development, and Data Science.  
 
 ## 🛠️ Tech Stack  
 - HTML, CSS 
 - Hosted on Netlify  
 
 ## 📸 Substack 
-My Blog ([https://your-image-link.com](https://substack.com/@thedigitalpolymath))  
+My Blog ([Digital Polymath](https://substack.com/@thedigitalpolymath))  
 
 ## 📥 Installation & Setup  
 To run this project locally:  
