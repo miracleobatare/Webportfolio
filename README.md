@@ -1,4 +1,4 @@
-# [Your Portfolio Name]  
+# Web Portfolio  
 
 🚀 Live Demo: https://miracleobatare-portfolio.netlify.app/
 
@@ -9,8 +9,8 @@ This is my personal web portfolio showcasing my projects, skills, and experience
 - HTML, CSS 
 - Hosted on Netlify  
 
-## 📸 Screenshots  
-![Portfolio Screenshot](https://your-image-link.com)  
+## 📸 Substack 
+My Blog ([https://your-image-link.com](https://substack.com/@thedigitalpolymath))  
 
 ## 📥 Installation & Setup  
 To run this project locally:  
