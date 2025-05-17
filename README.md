@@ -17,4 +17,4 @@ To run this project locally:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git  
 cd your-repo-name  
-open index.html (or run npm start if it's a React project)
+open index.html 
